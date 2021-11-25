@@ -100,10 +100,6 @@ class QuestionSeeder extends Seeder
                 'career_id' => '3',
             ],
             [              
-                'question' => 'Evaluar el desempeño financiero. Administrativo y operativo de una empresa.',
-                'career_id' => '3',
-            ],
-            [              
                 'question' => 'Trabajar en una oficina',
                 'career_id' => '3',
             ],
